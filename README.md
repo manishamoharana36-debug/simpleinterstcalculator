@@ -14,3 +14,4 @@ This repository contains:
 
 ## Usage
 Run:
+./simple-interest.sh 1000 5 2
